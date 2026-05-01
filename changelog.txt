@@ -1,3 +1,9 @@
+VERSION[beta][2026/05/01]
+
+--- New to Path of Building ---
+* Add support for Lesson of the Seasons spell barkskin mod (LocalIdentity)
+
+
 VERSION[2.65.0][2026/04/20]
 
 --- Fixed Crashes ---

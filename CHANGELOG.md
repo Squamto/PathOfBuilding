@@ -1,5 +1,16 @@
 # Changelog
 
+## [beta](https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2/tree/beta) (2026/05/01)
+
+[Full Changelog](https://github.com/PathOfBuildingCommunity/PathOfBuilding/compare/v2.65.0...beta)
+
+
+## What's Changed
+### New to Path of Building
+- Add support for Lesson of the Seasons spell barkskin mod [\#9820](https://github.com/PathOfBuildingCommunity/PathOfBuilding/pull/9820) ([LocalIdentity](https://github.com/LocalIdentity))
+
+
+
 ## [v2.65.0](https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2/tree/v2.65.0) (2026/04/20)
 
 [Full Changelog](https://github.com/PathOfBuildingCommunity/PathOfBuilding/compare/v2.64.0...v2.65.0)
